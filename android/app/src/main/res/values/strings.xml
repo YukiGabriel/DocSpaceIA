@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DocSpaceIA</string>
+    <string name="title_activity_main">DocSpaceIA</string>
+    <string name="package_name">com.docspaceia.app</string>
+    <string name="custom_url_scheme">com.docspaceia.app</string>
+</resources>
